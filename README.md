@@ -14,3 +14,4 @@
 - Vypočítal jsem každý příklad v matematice - posloupnosti
 - Trvalo to asi 3h...
 - Naučil jsem se pořádně používat range, porozuměl jsem jak fungují výpočty
+![Matika Preview](Matika.jpg)
