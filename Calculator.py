@@ -44,7 +44,7 @@ while True:
         print(f"Tvoje číslo je: {vypocet}!")
 
     elif operator == "%":
-        vypocet = cislo_jenda / cislo_dva
+        vypocet = cislo_jenda % cislo_dva
         print("")
         print(f"Tvoje číslo je: {vypocet}!")
 
